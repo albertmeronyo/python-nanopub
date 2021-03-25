@@ -2,7 +2,7 @@ DateTime==4.3
 isodate==0.6.0
 pyparsing==2.4.2
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.4
 rdflib==4.2.2
 six==1.12.0
 uuid==1.30
